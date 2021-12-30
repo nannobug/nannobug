@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there I'm Dora Jiang👋
+
+
+-  👩‍💻 I am a Full Stack Engineer
+-  🔭 Looking for a full-time Software Engineer job
+-  🤩 Passionate about developing application to increase efficiencies for end users
+-  📍 Based in SF Bay Area, CA
+
+### Language & Tools ###
+<img src = 'https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'> <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
 
 <!--
 **nannobug/nannobug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +22,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🔭 I’m currently working on ...
 -->
